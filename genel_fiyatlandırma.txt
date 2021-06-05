@@ -1,0 +1,35 @@
+YAZILIM
+=======================
+Temel Fiyatlandırma (bağımsız) (zordan kolaya)
+=========
+Gömülü Sistem (raspberry, pic): 
+  basit raspberry kurulum, pin konfigürasyonu: 79 TL (+ artı istekler + 9.99 TL'den fiyatlandırılır)
+  sadece raspberry içinde çevrimdışı olarak çalışacak scriptler: 199,99 TL
+                                        |-> çevrimiçi çalışacak: 299,99 TL
+
+  3. parti eklenti, API, JSON dosyası bağlantısı (onedrive, googledrive, mega api benzerleri) : 379,99 TL
+
+ 
+
+Veritabanı yapılandırmaları
+  temel veri tabanı scripti (tek tablo): 499,99 TL
+
+
+Birden fazla projenin birleştirilmesi
+birleştirme işlemleri için iki proje hakkında da fikir sahibi olmak gerektiğinden dolayı (programları benim yazmadığım varsayılırsa)
+herbir proje için tutacak olan fiyatın yaklaşık %50'si alınır.
+
+Kullanıcı arayüzleri
+=======================
+  tek pencere (pencere içeriğine göre fiyatlandırma değişir): 149 TL
+  tam / endüstriyel arayüz (sadece tasarım) : 999,99 TL
+
+
+ELEKTRONIK
+================
+Var olan devrenin basıma hazır hale getirilmesi: 119,99 TL
+Sıfırdan Raspberry PI kurulumu: 199,99 TL
+Sıfırdan Devre Tasarımı: 159,99 TL
+Elektronik Yazılım Üretimi, Test, Hataların giderilmesi: 399,99 TL
+
+

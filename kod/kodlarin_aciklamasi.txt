@@ -1,0 +1,25 @@
+modüllerin isimleri
+
+1- cred.py
+2- read_sensor.py
+3- AzureBlob.py
+
+
+1. cred.py:
+  ===========
+  - dosya yollarının, hedef dosyaların, azure için tanımlı olan gizli anahtarlar gibi, gizli kalmaası gereken bilgilerin bulunduğu modül
+
+2. read_sensor.py:
+  ================
+  - sensor Adafruit'in olduğundan dolayı o şirketin sensörleri için özel olarak ürettiği sürücü kullanıldı.
+  - veri okuma kısmı bu sürücü ile başarılı bir şekilde tamamlandıktan sonra sürekli olarak okuma devam etsin diye "while" döngüsü kullanılarak sonsuz döngüye alındı
+  - eğer while döngüsü içindeki okuma kısmı geçerli bir değer dönerse, basit python dosya yazma işlemleri kullanılarak verileri sırası cred.py içindeki tanımlı isimli dosyaya direk olarak yazdırıyoruz
+
+
+3. Azure_blob.py:
+  ===============
+  Azure blob service üzerinden azure için Microsoft üzerinden geliştirilniş olan kütüphaneyi kullanarak ve cred.py modülü içinde tanımlı olan bilgileri kullanarak resmi AzureStorage sitesinde oluşturmuş olduğumuz hesaba belirli aralıklarla yazılan dosyanın yollanmasını sağlayan modül.
+  Arkaplanında tamamen python ile yazılmış olan ve internet üzerinden veri alış-verişi kısımlarında kullanılan socket kütüphanesi kullanılmıştır. Azure Serverlarına yine Microsoft'un izin verdiği kadar ulaşıım yapılmasına izin vermektedir
+
+
+

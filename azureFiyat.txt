@@ -1,0 +1,36 @@
+Projeniz çok karmaşık bir proje olmadığından dolayı ve asıl odak noktası Azure Bağlantısı olduğundan dolayı
+ve birden fazla fiyat kategorisine dahil olduğundan dolayı fiyatlarda esnetme yapabiliriz. 
+
+
+Sizin projeniz için;
+
+    # elektronik devre kısmının kısım
+    Sadece Raspberry pi içinde çalışacak olan scriptler: 199,99 TL -> 150 TL
+
+    # azure bağlantısı sağlayan kısım
+    3. Parti eklenti, API, JSON dosyası bağlantısı: 379,99 TL -> 300 TL
+
+
+
+
+    eğer elinizdeki raspberry pi kurulu halde değilse 
+    (sıfırdan format atılması, gpio pinlerinin ayarlanması, güncellemelerinin yapılması)
+        : sıfırdan raspberry pi kurulumu: 199,99 TL -> 150 TL
+
+
+    raspberry pi kurulumu dahil edersek: 600 TL
+    raspberry pi kurulumunu dahil etmezsek : 450 TL
+
+ödemenizi site üzerinden yapacaksanız site %20'lik bir pay kesiyor o pay kısmınıda eklersek: 
+
+raspberry pi kurulumu da yapılacaksa:
+    benim tarafıma tam olarak 450 TL geçmesi için 112,5 TL ek ücret ödemeniz gerekiyor
+    hesap olarak gösterimi:
+                        450 + 112,5 TL = 562,5 TL
+                        562,5 % 20 = 112,5 TL yapıyor. dolayısıyla benim tarafıma tam olarak 450 TL geçmiş oluyor.
+
+raspberry pi kurulumu yapılmayacaksa:
+    benim tarafıma tam olarak 600 TL geçmesi için 150 TL fazladan ödemeniz gerekmektedir.
+    hesap olarak gösterimi:
+                        600 + 150 = 750 TL
+                        750 % 20 = 150 TL yapıyor. dolayısıyla benim tarafıma tam olarak 600 TL geçmiş oluyor.

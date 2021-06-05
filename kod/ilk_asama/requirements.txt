@@ -1,0 +1,2 @@
+azure-storage-blob
+pip3 install Adafruit_DHT
